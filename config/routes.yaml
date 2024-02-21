@@ -1,0 +1,16 @@
+controllers:
+    resource:
+        path: ../src/Controller/
+        namespace: App\Controller
+    type: attribute
+
+
+
+logout:
+    path: /logout
+    methods: GET
+
+
+login:
+    path: /login
+    methods: GET

@@ -1,0 +1,46 @@
+body {
+    background-color: skyblue;
+}
+
+
+#registration_form_email{
+    width: 30%;
+    height: 5%;
+    padding: 10px;
+    margin: 5px;
+    border: white 1px solid;
+}
+#registration_form_plainPassword{
+    width: 30%;
+    height: 5%;
+    padding: 10px;
+    margin: 5px;
+    border: white 1px solid;
+}
+
+.required{
+    padding: 2px;
+}
+
+#task_name{
+    width: 30%;
+    height: 5%;
+    padding: 10px;
+    margin: 5px;
+    border: white 1px solid;
+}
+#task_status{
+    width: 30%;
+    height: 5%;
+    padding: 10px;
+    margin: 5px;
+    border: white 1px solid;
+}
+
+#task_details{
+    width: 30%;
+    height: 5%;
+    padding: 10px;
+    margin: 5px;
+    border: white 1px solid;
+}
